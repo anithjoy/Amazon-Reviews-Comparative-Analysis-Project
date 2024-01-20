@@ -16,6 +16,7 @@ This project consists of two Python notebooks aimed at conducting a comparative 
 
 **Notebook Name: comparativeReport.ipynb**
 **Objective:** This notebook reads the review CSV files produced by the first notebook and generates a comparative report describing how the two products differ based on customer reviews.
+
 **Steps:**
 
 1. Read the review CSV files for each product.
